@@ -1,0 +1,385 @@
+
+.headerContainer {
+  background-color: #8a8a8a;
+  padding: 80px 0;
+}
+.fa-check {
+  font-size: 2em;
+  color: #00a99d;
+  padding: 15px;
+  border: 3px solid #00a99d;
+  border-radius: 50%;
+}
+h1>span,
+h2>span,
+h3>span {
+  color: #00a99d;
+}
+.textHeader h3 {
+  padding: 5px 0px 5px 0px;
+  color: #fff;
+  background-color: #333333;
+}
+h1, h3, h2, h4 {
+  text-transform: uppercase;
+}
+h5 {
+  color: #8a8a8a;
+}
+.navbar {
+  padding: 25px;
+  border-bottom: 3px solid #dedede;
+}
+.navbar-brand {
+  padding: 0;
+}
+
+.services>div>i {
+  margin-top: 50px;
+  font-size: 3em;
+  color: #fff;
+  padding: 30px;
+  background-color: #383838;
+  border-radius: 50%;
+}
+.services>div>h5 {
+  font-weight: 900;
+}
+.services {
+  padding: 50px 0;
+}
+.features,
+.skills,
+.facts {
+  padding: 50px 0 0 0;
+  color: #fff;
+  background-color: #383838;
+}
+.offers .services h5,
+.features .serviceContainer h5 {
+  text-transform: uppercase;
+}
+.offers button {
+  color: #8a8a8a;
+  border: 1px solid #8a8a8a;
+  text-transform: uppercase;
+  margin: 15px 0;
+  padding: 8px;
+  border-radius: 3px;
+  background-color: #fff;
+}
+.serviceContainer {
+  margin-top: 100px;
+  overflow: hidden;
+}
+.serviceContainer i {
+  color: #00a99d;
+  font-size: 3em;
+  margin-top: 10px;
+}
+.theSixer div {
+  padding: 20px;
+}
+.theSixer p{
+ font-size: 0.8em;
+}
+.banner {
+  margin-top: 20px;
+  color: #fff;
+  height: 80px;
+  width: 40px;
+  font-size: 1.5em;
+  background-color: #404040;
+  border-radius: 8px;
+}
+.banner i {
+  margin-left: -12px;
+}
+
+.progressCircle {
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-bottom: 20px;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
+.progressCircle>span {
+  display: none;
+}
+.skills {
+  padding-bottom: 50px;
+}
+.works {
+  padding: 30px 0;
+}
+.worksBlock {
+  height: 150px;
+  background-color: #8a8a8a;
+  border: 2px solid #fff;
+}
+.works .row:nth-child(3) {
+  margin-top: 30px;
+}
+.worksButton {
+  margin-top: 20px;
+  color: #fff;
+  background-color: #00a99d;
+  text-transform: uppercase;
+}
+.factsNumber {
+  font-size: 3em;
+  font-style: italic;
+}
+.facts i {
+  margin-top: -50px;
+  color: #00a99d;
+  font-size: 1.5em;
+}
+.facts h4 {
+  color: #8a8a8a;
+  font-size: 1em;
+  font-weight: 600;
+}
+.facts h4 span {
+  font-size: 0.6em;
+}
+.factsQuery,
+.teamQuotes {
+  margin-top: 50px;
+  background-color: #00a99d;
+  padding: 15px;
+}
+.factsQuery h4 {
+  color: #fff;
+}
+.factsQuery .btn {
+  text-transform: uppercase;
+  font-weight: 600;
+  font-size: 0.8em;
+  color: #333;
+  padding: 10px;
+  margin:0 5px;
+}
+.team {
+  margin-top: 30px;
+  padding: 0;
+}
+.teamShowcase {
+  margin-top: 20px;
+  border: 10px solid #fff;
+  padding: 0;
+}
+.teamMemberSocial {
+  height: 300px;
+  /* Replace with background image at some point*/
+  background-color: #8a8a8a;
+  border-radius: 10px 10px 0 0;
+}
+.teamMemberInfo {
+  border: 1px solid #8a8a8a;
+  border-radius: 0 0 10px 10px;
+}
+.teamMemberInfo h3 {
+  height: 35px;
+  color: #fff;
+  border-radius: 3px;
+  font-size: 0.8em;
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  padding: 10px;
+  top: -15px;
+  background-color: #00a99d;
+}
+.teamMemberInfo h5 {
+  color: #333;
+  margin-top: -10px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #8a8a8a;
+}
+.teamMemberInfo p {
+  color: #8a8a8a;
+}
+.teamQuotes {
+  color: #fff;
+  padding: 50px 0;
+}
+.teamQuotes a,
+.selectedBrands a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 2em;
+}
+.teamQuotes a:hover {
+  color: #333;
+}
+.teamQuotes a i {
+  margin-top: 20px;
+}
+.selectedQuote {
+  margin: 0 auto;
+}
+.selectedQuote h3 {
+  display: inline-block;
+  padding: 10px;
+  font-weight: 600;
+  font-size: 0.8em;
+  color: #00a99d;
+  background-color: #fff;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+.selectedQuote span {
+  color: #8a8a8a;
+  font-style: italic;
+  text-transform: none;
+}
+.selectedQuote p {
+  margin: 0 auto;
+  width: 50%;
+  font-size: 1.2em;
+  font-weight: 400;
+}
+.brandLinks {
+  padding: 50px 0;
+  background-color: #333;
+}
+.selectedBrands img {
+  border-radius: 3px;
+}
+.selectedBrands a:hover{
+  color: #00a99d;
+}
+.selectedBrands {
+  width: 50%;
+  margin: 0 auto;
+}
+.selectedBrands .left {
+  left: -150px;
+  background: none;
+}
+.selectedBrands .right {
+  right: -150px;
+  background: none;
+}
+.selectedBrands .left.carousel-control,
+.selectedBrands .right.carousel-control {
+  margin-top: 30px;
+}
+.prices {
+  margin: 50px 0;
+}
+.pricePlans {
+  margin-top: 50px;
+}
+.pricePlans h3 {
+  background-color: #333;
+}
+.pricePlans h1{
+  margin: 0 auto;
+  width: 70%;
+  border-bottom: 1px solid #8a8a8a;
+}
+.pricePlans h1 span {
+  text-transform: none;
+  color: #8a8a8a;
+  font-size: 0.4em;
+}
+.pricePlans h1 span:nth-child(3) {
+  border: none;
+  font-weight: 600;
+  color: #333;
+  position: absolute;
+  top: 37px;
+  left: 130px;
+}
+.pricePlans p {
+  margin-top: 10px;
+  line-height: 2;
+}
+.pricePlans p:nth-child(7) {
+  width: 70%;
+  margin: 0 auto;
+  border-bottom: 1px solid #8a8a8a;
+  padding-bottom: 10px;
+}
+.pricePlans i {
+  font-size: 0.3em;
+  transform: rotate(45deg);
+}
+.pricePlans button {
+  color: #fff;
+  text-transform: uppercase;
+  margin: 25px 0;
+  padding: 10px;
+  border-radius: 3px;
+  background-color: #00a99d;
+  font-weight: 600;
+}
+.purchaseQuery {
+  background-color: #8a8a8a;
+  padding: 50px 0;
+}
+.purchaseQuery h4 {
+  font-weight: 600;
+  font-size: 2em;
+  text-transform: none;
+}
+.purchaseQuery h4 i {
+  color: #00a99d;
+}
+.purchaseQuery button {
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  border-radius: 3px;
+  background-color: #00a99d;
+  padding: 10px;
+}
+
+.footer {
+  padding: 50px 0;
+  background-color: #333;
+}
+.footer .socialMediaLinks {
+  margin-top: 30px;
+}
+.footer i {
+  padding: 10px;
+  width: 35px;
+  margin: 3px;
+  color: #fff;
+  border: 1px solid #8a8a8a;
+  border-radius: 5px;
+}
+.footer i:hover {
+  background-color: #00a99d;
+}
+.contact-form {
+  margin-top: 70px;
+}
+.contact-form form {
+  width: 50%;
+  position: absolute;
+  top: -500px;
+  border-radius: 5px;
+  padding: 20px;
+  background-color: #fff;
+}
+.contact-form textarea {
+  resize: none;
+}
+.contact-form button {
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: #00a99d;
+}
+.credits {
+  padding: 30px 0 10px 0;
+  color: #fff;
+}
